@@ -1,4 +1,4 @@
-# TwitterSentiment
+# TwitterSentimentAnalysis
 The Twitter Sentiment Analysis is a predictive model trained using Machine Learning. The project is developed in Python programming language with Python Django as a framework.
 The data to be analysed and visualized are gathered from the twitter itself using the tweepy API.
 
